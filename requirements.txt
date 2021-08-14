@@ -1,0 +1,9 @@
+pandas==1.2.3
+joblib==1.0.1
+scikit-learn==0.24.1
+scipy==1.6.2
+threadpoolctl==2.1.0
+flashtext==2.7
+pyarrow==3.0.0
+icc-rt==2019.0
+
