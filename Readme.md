@@ -1,5 +1,4 @@
-
- ###Running the main program
+###Running the main program
 All hyper parameters should be firstly tuned in the settings.py.
 This includes all input files and the output file name. 
 It is also possible to change the column names for different 
